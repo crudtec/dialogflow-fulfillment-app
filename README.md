@@ -15,7 +15,7 @@ Para criar o bot exemplo do Hands on, siga os passos dessa sessão. Em resumo su
 1 . Faça o fork desse projeto para sua conta
 
 ![](img/fork.png)
- 
+
 Ou simplesmente faça o download do projeto como zip e realize a extração.
 
 2 . Faça o login na sua conta Heroku
@@ -28,9 +28,9 @@ https://www.heroku.com/
 
 4 . Escolha um nome que estiver disponível:
 ![](img/name_app.png)
- 
+
 E clique em create app.
- 
+
 5 . Na próxima tela conecte sua conta do Heroku com a do GIT HUB.
 
 ![](img/connect.png)
@@ -72,8 +72,11 @@ Para obter o nosso end-point da aplicação basta clicar no botão "View" que ap
    - [x] Habilite o Webhook -> Enable
    - [x] Inserir o end-point gerado pelo heroku /api
 
-## Suporte
+## Dúvidas, sugestões ou contribuições
+
+[![](https://sourcerer.io/fame/wladneto/soterocra/dialogflow-fulfillment-app/images/0)](https://sourcerer.io/fame/wladneto/soterocra/dialogflow-fulfillment-app/links/0)[![](https://sourcerer.io/fame/wladneto/soterocra/dialogflow-fulfillment-app/images/1)](https://sourcerer.io/fame/wladneto/soterocra/dialogflow-fulfillment-app/links/1)[![](https://sourcerer.io/fame/wladneto/soterocra/dialogflow-fulfillment-app/images/2)](https://sourcerer.io/fame/wladneto/soterocra/dialogflow-fulfillment-app/links/2)[![](https://sourcerer.io/fame/wladneto/soterocra/dialogflow-fulfillment-app/images/3)](https://sourcerer.io/fame/wladneto/soterocra/dialogflow-fulfillment-app/links/3)[![](https://sourcerer.io/fame/wladneto/soterocra/dialogflow-fulfillment-app/images/4)](https://sourcerer.io/fame/wladneto/soterocra/dialogflow-fulfillment-app/links/4)[![](https://sourcerer.io/fame/wladneto/soterocra/dialogflow-fulfillment-app/images/5)](https://sourcerer.io/fame/wladneto/soterocra/dialogflow-fulfillment-app/links/5)[![](https://sourcerer.io/fame/wladneto/soterocra/dialogflow-fulfillment-app/images/6)](https://sourcerer.io/fame/wladneto/soterocra/dialogflow-fulfillment-app/links/6)[![](https://sourcerer.io/fame/wladneto/soterocra/dialogflow-fulfillment-app/images/7)](https://sourcerer.io/fame/wladneto/soterocra/dialogflow-fulfillment-app/links/7)
 
 [Rafael Sotero](https://github.com/soterocra) e [Wladimir Neto](https://github.com/wladneto)
 
-ou  falecom@crudtec.com.br
+ou  [falecom@crudtec.com.br](mailto:falecom@crudtec.com.br)
+
